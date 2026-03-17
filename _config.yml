@@ -1,3 +1,6 @@
 title: SPS Class of 2028 Strategy
 description: College Admissions Strategy — Mathematics + Classics + Alpine Skiing
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+show_downloads: false
+github:
+  is_project_page: false
