@@ -1,74 +1,42 @@
 ---
 layout: default
-title: SPS Class of 2028 — College Admissions Strategy
+title: SPS 2028 Strategy
 ---
 
-# SPS Class of 2028 — College Admissions Strategy
+## Choose Language
 
-**Korean National (US Permanent Resident) · St. Paul's School, NH · Mathematics + Classics + Alpine Skiing**
-
-> *Classical Studies applicant with AI research. Korean U17 National Team alpine skier. SPS Classical Honors Diploma candidate.*
-
----
-
-## Choose Your Language
-
-| Korean (한글) | English |
+| [**한글 (Korean) →**](ko/01-profile) | [**English →**](en/01-profile) |
 |---|---|
-| [**전략 문서 전문 →**](ko/strategy) | [**Full Strategy Document →**](en/strategy) |
 
 ---
 
-## Quick Navigation
+## Sections
 
-| # | Section | Key Points |
-|---|---------|------------|
-| 1 | [Student Profile](en/strategy#1-student-profile-summary) | US permanent resident, U17 national team, Classical Honors |
-| 2 | [Core Principle: Visible Impact](en/strategy#2-core-principle-keep-only-visible-impact) | AI as tool, continuous research, tangible deliverables |
-| 3 | [Testing](en/strategy#3-testing-strategy) | SAT + ACT both; TOEFL not needed |
-| 4 | [SPS Academics](en/strategy#4-sps-academic-strategy) | Classical Honors Program, NLE, NGE, Math trajectory |
-| 5 | [Activities & Leadership](en/strategy#5-sps-extracurriculars--leadership-strategy) | Missionary AI project, ski captain, leadership roadmap |
-| 6 | [Science Fair → ISEF](en/strategy#6-science-fair--isef-track) | NH pathway, STS, writing strategy, AI+Classics research topics |
-| 7 | [Summer Programs](en/strategy#7-summer-program-strategy-math-focused) | SUMAC / Ross / PROMYS, backup plans |
-| 8 | [Top 20 School Fit](en/strategy#8-top-20-school-fit-analysis) | Harvard & Dartmouth = best fit |
-| 9 | [Master Timeline](en/strategy#9-master-timeline) | 10th grade → 12th grade month-by-month |
-| 10 | [Essay Narrative](en/strategy#10-essay-narrative-strategy) | Mathematical precision meets classical language |
+| # | Korean | English | Topic |
+|---|--------|---------|-------|
+| 1 | [프로필](ko/01-profile) | [Profile](en/01-profile) | Student snapshot |
+| 2 | [핵심 원칙](ko/02-principles) | [Principles](en/02-principles) | Visible impact, AI, research output |
+| 3 | [시험](ko/03-testing) | [Testing](en/03-testing) | SAT + ACT, TOEFL not needed |
+| 4 | [학업](ko/04-academics) | [Academics](en/04-academics) | Classical Honors, NLE, NGE, Math |
+| 5 | [활동](ko/05-activities) | [Activities](en/05-activities) | Leadership, Missionary AI, ASEP |
+| 6 | [연구](ko/06-research) | [Research](en/06-research) | ISEF, STS, writing, AI+Classics topics |
+| 7 | [여름](ko/07-summer) | [Summer](en/07-summer) | SUMAC / Ross / PROMYS |
+| 8 | [대학](ko/08-schools) | [Schools](en/08-schools) | Top 20 fit analysis |
+| 9 | [일정](ko/09-timeline) | [Timeline](en/09-timeline) | Month-by-month plan |
+| 10 | [에세이](ko/10-essay) | [Essay](en/10-essay) | Narrative strategy |
 
 ---
-
-## Key Facts
 
 | | |
 |---|---|
-| **Citizenship** | Korean national, US Permanent Resident |
-| **School** | St. Paul's School, Concord NH (Forms IV–VI) |
-| **Intended Major** | Classical Studies |
-| **Athletic** | Korean U17 National Team · SPS Varsity Ski (captain goal) |
+| **Status** | Korean national, US Permanent Resident |
+| **School** | St. Paul's School, Concord NH |
+| **Major** | Classical Studies |
+| **Athletic** | Korean U17 National Team · SPS Varsity Ski |
 | **Research** | AI tools for Classical Studies |
-| **TOEFL** | Not required |
 
 ---
 
-## AI + Classical Studies Research Topics
+[입시전략 한글.docx](assets/입시전략_SPS_2028_한글.docx) · [Strategy EN.docx](assets/College_Strategy_SPS_2028.docx) · [Ski Guide.docx](assets/Ski_to_Admission_Guide_Top20.docx)
 
-| # | Topic | One-liner |
-|---|---|---|
-| 1 | Latin Verse Restoration | AI fills gaps in damaged poetry following meter rules |
-| 2 | Allusion Detection Tool | Shows *why* passages are related, not just *that* they are |
-| 3 | Inscription Dating | Predict when/where a Roman inscription was made |
-| 4 | Appendix Vergiliana | Did Virgil really write these? Statistical answer |
-| 5 | Morphology Benchmark | Foundation dataset every Latin NLP tool will cite |
-
----
-
-## Downloads
-
-| File | Description |
-|---|---|
-| [입시전략_SPS_2028_한글.docx](assets/입시전략_SPS_2028_한글.docx) | Korean strategy (DOCX) |
-| [College_Strategy_SPS_2028.docx](assets/College_Strategy_SPS_2028.docx) | English strategy (DOCX) |
-| [Ski_to_Admission_Guide_Top20.docx](assets/Ski_to_Admission_Guide_Top20.docx) | Ski-to-admission guide |
-
----
-
-*Prepared March 2026. Confidential.*
+[한글 전문 (single page)](ko/strategy) · [English full doc (single page)](en/strategy)
