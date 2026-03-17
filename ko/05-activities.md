@@ -3,7 +3,9 @@ layout: default
 title: "과외활동"
 ---
 
-[Home](../) · [EN](../en/05-activities) · [1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · **5** · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
+[Home](../) · **한글** · [EN](../en/05-activities)
+
+[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · **5** · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
 
 ---
 

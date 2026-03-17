@@ -3,7 +3,9 @@ layout: default
 title: "Timeline"
 ---
 
-[Home](../) · [한글](../ko/09-timeline) · [1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · **9** · [10](10-essay)
+[Home](../) · [한글](../ko/09-timeline) · **EN**
+
+[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · **9** · [10](10-essay)
 
 ---
 

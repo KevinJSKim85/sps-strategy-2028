@@ -3,7 +3,9 @@ layout: default
 title: "핵심 원칙"
 ---
 
-[Home](../) · [EN](../en/02-principles) · [1](01-profile) · **2** · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
+[Home](../) · **한글** · [EN](../en/02-principles)
+
+[1](01-profile) · **2** · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
 
 ---
 
