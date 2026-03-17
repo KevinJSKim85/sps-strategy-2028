@@ -3,12 +3,6 @@ layout: default
 title: "Timeline"
 ---
 
-[Home](../) · [한글](../ko/09-timeline) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · **9** · [10](10-essay)
-
----
-
 ## 9. Full Schedule (Master Timeline)
 
 ### 10th Grade Spring (2026년 3-6월) -- Now
@@ -79,4 +73,4 @@ title: "Timeline"
 
 ---
 
-[← Prev](08-schools)  ·  [Next →](10-essay)  ·  [Full Document](strategy)
+[← Prev](08-schools)  ·  [Next →](10-essay)

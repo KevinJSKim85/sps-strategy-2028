@@ -3,12 +3,6 @@ layout: default
 title: "Testing"
 ---
 
-[Home](../) · [한글](../ko/03-testing) · **EN**
-
-[1](01-profile) · [2](02-principles) · **3** · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 3. Testing Strategy
 
 ### 3.1 SAT + ACT: Take Both
@@ -30,4 +24,4 @@ Exception check required: Northwestern and Carnegie Mellon have policies that ma
 
 ---
 
-[← Prev](02-principles)  ·  [Next →](04-academics)  ·  [Full Document](strategy)
+[← Prev](02-principles)  ·  [Next →](04-academics)

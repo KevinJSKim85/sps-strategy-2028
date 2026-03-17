@@ -3,12 +3,6 @@ layout: default
 title: "Top 20 대학"
 ---
 
-[Home](../) · **한글** · [EN](../en/08-schools)
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · **8** · [9](09-timeline) · [10](10-essay)
-
----
-
 # 8. Top 20 대학별 프로필 적합도 분석
 
 이 학생의 구체적 조합(수학 + 고전학 + 한국 국가대표 스키)이 각 학교에서 어떻게 읽히는지 분석합니다. 적합도가 높은 순서로 정렬했습니다.
@@ -38,4 +32,4 @@ title: "Top 20 대학"
 
 ---
 
-[← Prev](07-summer)  ·  [Next →](09-timeline)  ·  [Full Document](strategy)
+[← Prev](07-summer)  ·  [Next →](09-timeline)

@@ -3,12 +3,6 @@ layout: default
 title: "Essay Strategy"
 ---
 
-[Home](../) · [한글](../ko/10-essay) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · **10**
-
----
-
 ## 10. Essay Narrative Strategy
 
 The strongest essay narrative for this student is neither "I am good at math" (thousands write this) nor "I love Latin" (others write this too). The key is the intersection of both:
@@ -25,4 +19,4 @@ Prepared in 2026년 3월. Sources: SPS official site, NCAA, EISA, NLE/ACL, and e
 
 ---
 
-[← Prev](09-timeline)  ·  [Full Document](strategy)
+[← Prev](09-timeline)

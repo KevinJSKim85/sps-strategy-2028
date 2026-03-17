@@ -3,12 +3,6 @@ layout: default
 title: "Top 20 Schools"
 ---
 
-[Home](../) · [한글](../ko/08-schools) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · **8** · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 8. Top 20 University Fit Analysis by Profile
 
 This section analyzes how this specific profile combination (math + classics + Korean national team skiing) is read by each school. Ordered by highest fit first.
@@ -38,4 +32,4 @@ This section analyzes how this specific profile combination (math + classics + K
 
 ---
 
-[← Prev](07-summer)  ·  [Next →](09-timeline)  ·  [Full Document](strategy)
+[← Prev](07-summer)  ·  [Next →](09-timeline)

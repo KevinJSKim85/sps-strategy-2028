@@ -3,12 +3,6 @@ layout: default
 title: "Profile"
 ---
 
-[Home](../) · [한글](../ko/01-profile) · **EN**
-
-**1** · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 1. Student Profile Summary
 
 This strategy was prepared for a student with the profile below.
@@ -24,4 +18,4 @@ Profile analysis: The combination of math olympiad track, classical languages (L
 
 ---
 
-[Next →](02-principles)  ·  [Full Document](strategy)
+[Next →](02-principles)

@@ -3,12 +3,6 @@ layout: default
 title: "Academics"
 ---
 
-[Home](../) · [한글](../ko/04-academics) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · **4** · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 4. Academic Strategy at SPS
 
 ### 4.1 Classical Honors Program (Most Important Program)
@@ -75,4 +69,4 @@ Why is the math + classics combination powerful? Top universities such as Harvar
 
 ---
 
-[← Prev](03-testing)  ·  [Next →](05-activities)  ·  [Full Document](strategy)
+[← Prev](03-testing)  ·  [Next →](05-activities)

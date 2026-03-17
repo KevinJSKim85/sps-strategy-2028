@@ -3,12 +3,6 @@ layout: default
 title: "에세이"
 ---
 
-[Home](../) · **한글** · [EN](../en/10-essay)
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · **10**
-
----
-
 # 10. 에세이 내러티브 전략
 
 이 학생의 가장 강력한 에세이 내러티브는 '나는 수학을 잘한다' (수천 명이 이렇게 씁니다)도 아니고, '나는 라틴어를 사랑한다' (이것도 쓰는 학생이 있습니다)도 아닙니다. 핵심은 이 두 가지의 교차점입니다:
@@ -21,4 +15,4 @@ title: "에세이"
 
 ---
 
-[← Prev](09-timeline)  ·  [Full Document](strategy)
+[← Prev](09-timeline)

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
 {% seo %}
@@ -14,9 +14,50 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
     </header>
+
+    {% unless page.url == '/' or page.url == '/index.html' %}
+    {% assign curr = page.url | split: '/' %}
+    {% assign lang = curr[1] %}
+    {% assign other = 'en' %}
+    {% assign other_label = 'EN' %}
+    {% assign curr_label = '한글' %}
+    {% if lang == 'en' %}
+      {% assign other = 'ko' %}
+      {% assign other_label = '한글' %}
+      {% assign curr_label = 'EN' %}
+    {% endif %}
+    {% assign slug = curr[2] | replace: '.html', '' %}
+    <nav class="site-nav">
+      <div class="nav-inner">
+        <a href="{{ '/' | relative_url }}" class="nav-home">Home</a>
+        <div class="nav-lang">
+          <span class="nav-lang-current">{{ curr_label }}</span>
+          <a href="{{ '/' | relative_url }}{{ other }}/{{ slug }}" class="nav-lang-switch">{{ other_label }}</a>
+        </div>
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-btn">Sections ▾</button>
+          <div class="nav-dropdown-content">
+            <a href="{{ '/' | relative_url }}{{ lang }}/01-profile" {% if slug == '01-profile' %}class="active"{% endif %}>1. {% if lang == 'ko' %}프로필{% else %}Profile{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/02-principles" {% if slug == '02-principles' %}class="active"{% endif %}>2. {% if lang == 'ko' %}핵심 원칙{% else %}Principles{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/03-testing" {% if slug == '03-testing' %}class="active"{% endif %}>3. {% if lang == 'ko' %}시험 전략{% else %}Testing{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/04-academics" {% if slug == '04-academics' %}class="active"{% endif %}>4. {% if lang == 'ko' %}학업 전략{% else %}Academics{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/05-activities" {% if slug == '05-activities' %}class="active"{% endif %}>5. {% if lang == 'ko' %}과외활동{% else %}Activities{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/06-research" {% if slug == '06-research' %}class="active"{% endif %}>6. {% if lang == 'ko' %}연구 & 글쓰기{% else %}Research{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/07-summer" {% if slug == '07-summer' %}class="active"{% endif %}>7. {% if lang == 'ko' %}여름 프로그램{% else %}Summer{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/08-schools" {% if slug == '08-schools' %}class="active"{% endif %}>8. {% if lang == 'ko' %}Top 20 대학{% else %}Schools{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/09-timeline" {% if slug == '09-timeline' %}class="active"{% endif %}>9. {% if lang == 'ko' %}일정표{% else %}Timeline{% endif %}</a>
+            <a href="{{ '/' | relative_url }}{{ lang }}/10-essay" {% if slug == '10-essay' %}class="active"{% endif %}>10. {% if lang == 'ko' %}에세이{% else %}Essay{% endif %}</a>
+            <hr>
+            <a href="{{ '/' | relative_url }}{{ lang }}/strategy">📄 {% if lang == 'ko' %}전문 보기{% else %}Full Document{% endif %}</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    {% endunless %}
+
     <main id="content" class="main-content" role="main">
       {{ content }}
       <footer class="site-footer">

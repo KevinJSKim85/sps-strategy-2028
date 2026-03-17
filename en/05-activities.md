@@ -3,12 +3,6 @@ layout: default
 title: "Activities"
 ---
 
-[Home](../) · [한글](../ko/05-activities) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · **5** · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 5. SPS Extracurricular & Leadership Strategy
 
 SPS has over 70 clubs and an independent leadership structure. Below are priority activities aligned with this student's profile.
@@ -57,4 +51,4 @@ Strategic meaning: Completing both the Classical Honors Diploma and ASEP is a ve
 
 ---
 
-[← Prev](04-academics)  ·  [Next →](06-research)  ·  [Full Document](strategy)
+[← Prev](04-academics)  ·  [Next →](06-research)

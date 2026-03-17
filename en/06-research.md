@@ -3,12 +3,6 @@ layout: default
 title: "Research & Writing"
 ---
 
-[Home](../) · [한글](../ko/06-research) · **EN**
-
-[1](01-profile) · [2](02-principles) · [3](03-testing) · [4](04-academics) · [5](05-activities) · **6** · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 6. Science Fair -> ISEF Track
 
 The Science Fair -> ISEF (International Science and Engineering Fair) path is one of the strongest STEM credentials in college admissions. But regional structures differ completely, so understanding the realistic NH-based path for SPS students is critical.
@@ -255,4 +249,4 @@ Core resources:
 
 ---
 
-[← Prev](05-activities)  ·  [Next →](07-summer)  ·  [Full Document](strategy)
+[← Prev](05-activities)  ·  [Next →](07-summer)

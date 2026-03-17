@@ -3,12 +3,6 @@ layout: default
 title: "Core Principles"
 ---
 
-[Home](../) · [한글](../ko/02-principles) · **EN**
-
-[1](01-profile) · **2** · [3](03-testing) · [4](04-academics) · [5](05-activities) · [6](06-research) · [7](07-summer) · [8](08-schools) · [9](09-timeline) · [10](10-essay)
-
----
-
 ## 2. Core Principle: Keep Only Visible Impact
 
 All activities in this strategy are evaluated by one criterion:
@@ -49,4 +43,4 @@ This principle applies to every activity in this document. Competition awards, p
 
 ---
 
-[← Prev](01-profile)  ·  [Next →](03-testing)  ·  [Full Document](strategy)
+[← Prev](01-profile)  ·  [Next →](03-testing)
