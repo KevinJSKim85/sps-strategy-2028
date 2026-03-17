@@ -3,9 +3,10 @@ layout: default
 title: SPS 2028 Strategy
 ---
 
-[**한글 (Korean) →**](ko/01-profile) · [**English →**](en/01-profile)
-
----
+<div style="display:flex;gap:0.8rem;margin-bottom:1.5rem;">
+  <a href="ko/01-profile" style="display:inline-block;padding:0.6rem 1.5rem;background:#157878;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">한글</a>
+  <a href="en/01-profile" style="display:inline-block;padding:0.6rem 1.5rem;background:#1a1a2e;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">English</a>
+</div>
 
 | # | Korean | English | Topic |
 |---|--------|---------|-------|
