@@ -19,8 +19,8 @@ title: "One-Page Roadmap"
 | **활동** | Classics Society · Math Society 가입. Form Rep 선거 출마 |
 | **Missionary** | AI 프로젝트 구상: ① NH Food Finder AI ② NH PFAS Watch ③ Concord Compass (택 1) |
 | **Writing** | 단편소설 습작 시작. NYT · Polyphony Lit 제출 연습. **YoungArts Writing** 목표 (10월 마감) |
-| **논문 #1** | **라틴 비문 연대/지역 추정 연구 시작 (Latin Inscription Dating & Localization)** — EDH 데이터 수집, 선행 논문 리뷰, 모델 설계. 멘토 접촉 (Dr. Cohen, MacBride) |
-| **스키** | Varsity 유지 + **스키팀 AI 대시보드** 개발 시작 (교내 레거시) |
+| **논문 #1** | **라틴 비문 연대/지역 추정 연구 시작 (Latin Inscription Dating & Localization)** — EDH 데이터 수집, 선행 논문 리뷰, 모델 설계. 멘토 접촉: 라틴어 — Ryan Samuels·Dr. David Camden, CS — Shreyas Rane, 통계 — Dr. Cohen. Dartmouth Classics·DH 교수 external mentor 접촉 시도 |
+| **스키** | Varsity 유지 + **스키팀 Training Load & Season Dashboard** 개발 시작 — 선수 Google Form 입력 → 코치용 자동 대시보드 (부하 추적, 컨디션, 시즌 목표 진행률). 교내 레거시 |
 
 ---
 
@@ -33,7 +33,7 @@ title: "One-Page Roadmap"
 | **Missionary** | AI 프로젝트 본격 개발. GitHub 공개. 개학 시 바로 런칭 준비 |
 | **논문 #1** | **라틴 비문 연구 마감 목표 (Latin Inscription Dating & Localization)** — 모델 완성, 실험, 논문 초안 작성. 여름 끝까지 JEI/arXiv 제출 준비 |
 | **연구** | STS 2027 지원 오픈 (6/1). 논문 #2 주제 구상 (손상된 라틴 시 AI 복원) |
-| **스키** | 스키 AI 대시보드 유지/개선. Dartmouth / Harvard 코치에게 이메일 (U17 국대 + FIS 결과) |
+| **스키** | 스키 Training Dashboard v1 완성. GitHub 배포. 시즌 시작과 동시에 팀 사용 시작. Dartmouth / Harvard 코치에게 이메일 (U17 국대 + FIS 결과) |
 
 ---
 
@@ -50,7 +50,7 @@ title: "One-Page Roadmap"
 | **논문 #2** | **손상된 라틴 시 AI 복원 연구 시작 (Prosody-Constrained Latin Verse Restoration)** — 운율 규칙 기반 복원 모델 설계, 코퍼스 구축, 벤치마크 설계 |
 | **STS** | STS 2027 지원서 제출 (11월 중순 마감) — 논문 #1 기반 |
 | **대학** | College list 작성 시작. Greg Buckles 첫 면담 |
-| **스키** | 스키 AI 대시보드 팀 활용 데이터 수집. 코치 피드백 반영 |
+| **스키** | 스키 Training Dashboard 팀 활용 중. 코치 피드백 반영, 기능 개선 |
 
 ---
 
@@ -60,7 +60,7 @@ title: "One-Page Roadmap"
 |---------|------|
 | **학업** | **NLE** Advanced Poetry 응시. **NGE** Beginner Attic 응시 |
 | **수학** | AMC/AIME 참가. NetMath UIUC 수강 (A 학점 목표) |
-| **스키** | **겨울 전지훈련 풀 참가. Captain 목표.** 코치에게 결과 업데이트. AI 대시보드 시즌 데이터 축적 |
+| **스키** | **겨울 전지훈련 풀 참가. Captain 목표.** 코치에게 결과 업데이트. Training Dashboard 시즌 데이터 축적 — 팀 리포트 자동 생성 |
 | **논문 #1** | STS Scholar 결과 (1월). 추가 심포지움/학회 발표 기회 탐색 |
 | **논문 #2** | **라틴 시 AI 복원 연구 마무리 (Prosody-Constrained Verse Restoration)** — 실험 완료, 논문 작성, **JEI/arXiv 제출 + 심포지움 발표** (11학년 끝나기 전) |
 | **대학** | 리스트 10-15개로 좁히기. 추천서 요청 |
@@ -85,7 +85,7 @@ title: "One-Page Roadmap"
 | **원서** | **ED/EA 지원.** 스키 리크루팅 확정 시 Dartmouth ED. 또는 Harvard/Yale/Princeton EA |
 | **스키** | 코치 support slot / likely letter (9-10월) |
 | **연구** | Capstone 시작. ISP 제안 (수학 + 고전학 융합 이상적) |
-| **결과물** | 논문 2편 게재 + STS Scholar + AI 도구 사용 데이터 + 스키 대시보드 — 가시적 목록 확정 |
+| **결과물** | 논문 2편 게재 + STS Scholar + AI 도구 사용 데이터 + 스키 Training Dashboard 시즌 리포트 — 가시적 목록 확정 |
 
 ---
 

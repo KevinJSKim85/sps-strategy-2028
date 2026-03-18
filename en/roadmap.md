@@ -19,7 +19,7 @@ title: "One-Page Roadmap"
 | **Activities** | Join Classics Society · Math Society. Run for Form Rep |
 | **Missionary** | AI project ideation: ① NH Food Finder AI ② NH PFAS Watch ③ Concord Compass (pick 1) |
 | **Writing** | Start fiction drafts. NYT · Polyphony Lit for practice. **Target YoungArts Writing** (Oct) |
-| **Paper #1** | **Begin: Interpretable Dating & Localization of Latin Inscriptions** — collect EDH data, literature review, model design. Contact mentors (Dr. Cohen, MacBride) |
+| **Paper #1** | **Begin: Interpretable Dating & Localization of Latin Inscriptions** — collect EDH data, literature review, model design. Contact mentors: Latin domain — Ryan Samuels·Dr. David Camden, CS — Shreyas Rane, Stats — Dr. Cohen. Reach out to Dartmouth Classics·DH faculty for external mentorship |
 | **Ski** | Maintain varsity + **begin ski team training AI dashboard** (school legacy) |
 
 ---
@@ -33,7 +33,7 @@ title: "One-Page Roadmap"
 | **Missionary** | Full development of AI project. Deploy on GitHub. Ready for Day 1 launch |
 | **Paper #1** | **Target completion: Latin Inscription Dating** — finalize model, experiments, draft paper. Ready for JEI/arXiv submission by end of summer |
 | **Research** | STS 2027 opens (6/1). Begin scoping Paper #2 (Prosody-Constrained Verse Restoration) |
-| **Ski** | Maintain & improve ski AI dashboard. Email Dartmouth / Harvard coaches (U17 + FIS) |
+| **Ski** | Complete Training Dashboard v1. Deploy on GitHub. Team starts using at season start. Email Dartmouth / Harvard coaches (U17 + FIS) |
 
 ---
 
@@ -50,7 +50,7 @@ title: "One-Page Roadmap"
 | **Paper #2** | **Begin: Prosody-Constrained Restoration of Fragmentary Latin Verse** — design meter-aware restoration model, build corpus, benchmark design |
 | **STS** | Submit STS 2027 application (mid-Nov deadline) — based on Paper #1 |
 | **College** | Start college list. First meeting with Greg Buckles |
-| **Ski** | Collect team usage data from AI dashboard. Incorporate coach feedback |
+| **Ski** | Training Dashboard in active team use. Incorporate coach feedback, iterate features |
 
 ---
 
@@ -60,7 +60,7 @@ title: "One-Page Roadmap"
 |----------|--------|
 | **Academics** | **NLE** Advanced Poetry. **NGE** Beginner Attic |
 | **Math** | AMC/AIME. NetMath UIUC (target: A) |
-| **Ski** | **Full winter training camp. Captain goal.** Update coaches. AI dashboard season data |
+| **Ski** | **Full winter training camp. Captain goal.** Update coaches. Training Dashboard accumulates season data — auto team reports |
 | **Paper #1** | STS Scholar results (January). Seek additional presentation opportunities |
 | **Paper #2** | **Complete: Prosody-Constrained Verse Restoration** — finish experiments, write paper, **submit JEI/arXiv + present at symposium** (before end of 11th grade) |
 | **College** | Narrow list to 10–15. Request recommendation letters |
@@ -85,7 +85,7 @@ title: "One-Page Roadmap"
 | **Applications** | **ED/EA submissions.** Dartmouth ED if ski recruit confirmed. Harvard/Yale/Princeton EA |
 | **Ski** | Coach support slot / likely letter (Sep–Oct) |
 | **Research** | Begin Capstone. Propose ISP (math + classics ideal) |
-| **Deliverables** | 2 published papers + STS Scholar + AI tools usage data + ski dashboard — finalize visible outcomes |
+| **Deliverables** | 2 published papers + STS Scholar + AI tools usage data + ski Training Dashboard season report — finalize visible outcomes |
 
 ---
 
