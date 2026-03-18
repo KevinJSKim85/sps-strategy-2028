@@ -6,6 +6,7 @@ title: SPS 2028 Strategy
 <div class="lang-buttons">
   <a href="ko/01-profile" class="lang-btn lang-btn-ko">한글</a>
   <a href="en/01-profile" class="lang-btn lang-btn-en">English</a>
+  <a href="ko/roadmap" class="lang-btn lang-btn-roadmap">Roadmap</a>
 </div>
 
 | # | Korean | English | Topic |
